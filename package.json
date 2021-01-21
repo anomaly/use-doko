@@ -1,9 +1,19 @@
-
 {
   "name": "@anomalyhq/use-doko",
   "author": "Brendon Lees @brendon1555",
   "version": "0.1.0",
   "license": "Apache-2.0",
+  "repository": "anomaly/use-doko",
+  "homepage": "https://github.com/anomaly/use-doko",
+  "bugs": "https://github.com/anomaly/use-doko/issues",
+  "keywords": [
+    "doko",
+    "metadata",
+    "protocol",
+    "react",
+    "hook",
+    "tools"
+  ],
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
   "module": "dist/use-doko.esm.js",
