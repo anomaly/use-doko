@@ -1,12 +1,19 @@
 useDoko
 =======
-
-A react hook to add the Doko meta tags to the document head.  
-For more information regarding the Doko Protocol, see: https://github.com/anomaly/Doko
+The ReacfJS hook for adding Doko meta tags.
 
 [![Version](https://img.shields.io/npm/v/@anomalyhq/use-doko.svg)](https://npmjs.org/package/@anomalyhq/use-doko)
 [![Downloads/week](https://img.shields.io/npm/dw/@anomalyhq/use-doko.svg)](https://npmjs.org/package/@anomalyhq/use-doko)
 [![License](https://img.shields.io/npm/l/@anomalyhq/use-doko.svg)](https://github.com/anomaly/use-doko/blob/master/package.json)
+
+
+Doko provides a `meta` tag based standard for web applications to express useful information about the environment which assists developers and testers ensure they are assessing the right environment without having to make visual changes to the user interfaces.
+
+In additional we provide browser plugins to overlay this information over a web interface.
+
+This repository contains a source to a ReactJS hook that makes it easy to add the Doko meta tags to the document `<head>`.  
+
+Head to the [main repository](https://github.com/anomaly/Doko) for information on the protocol, browser plugins and our roadmap.
 
 <!-- toc -->
   - [Installation](#installation)
