@@ -1,8 +1,12 @@
+
 {
+  "name": "@anomalyhq/use-doko",
+  "author": "Brendon Lees @brendon1555",
   "version": "0.1.0",
   "license": "Apache-2.0",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
+  "module": "dist/use-doko.esm.js",
   "files": [
     "dist",
     "src"
@@ -33,9 +37,6 @@
     "singleQuote": true,
     "trailingComma": "es5"
   },
-  "name": "use-doko",
-  "author": "Brendon Lees",
-  "module": "dist/use-doko.esm.js",
   "size-limit": [
     {
       "path": "dist/use-doko.cjs.production.min.js",
