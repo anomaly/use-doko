@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="512" src="assets/usage-carbon.png" alt="Doko usage example"/>
+</p>
+
 useDoko
 =======
 The React hook for adding Doko meta tags.
