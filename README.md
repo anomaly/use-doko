@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="512" src="assets/usage-carbon.png" alt="Doko usage example"/>
+  <img width="600" src="assets/usage-carbon.png" alt="Doko usage example"/>
 </p>
 
 useDoko
